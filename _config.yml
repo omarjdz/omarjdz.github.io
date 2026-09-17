@@ -37,13 +37,13 @@ disqus:
 #facebook: myfacebook
 #twitter: mytwitter
 #instagram: myinstagram
-linkedin: https://www.linkedin.com/in/-omarjimenez-diaz/
-github: mygithub
+linkedin: omarjimenez-diaz
+github: omarjdz
 email: myemail@gmail.com
 
 authors:
   johndoe:
-    name: John Doe
+    name: Omar Jimenez-Diaz
     bio: A Man who travels the world eating noodles
     external-image: false
     picture: assets/images/profile.jpg
